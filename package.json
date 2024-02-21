@@ -1,9 +1,9 @@
 {
-  "name": "hello-worlds",
+  "name": "hello",
   "version": "1.0.5",
-  "description": "hello worlds",
+  "description": "hello ",
   "main": "index.js",
-  "repository": "https://github.com/owenjames/hello-worlds.git",
+  "repository": "https://github.com/ozgurhan34/hello.git",
   "license": "MIT",
   "workspaces": [
     "hellos/*"
